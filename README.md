@@ -1,2 +1,2 @@
 # Dog-Website
-Website about my two dogs Angel and Dexter
+A website about my two dogs Angel and Dexter
